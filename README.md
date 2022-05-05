@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:D6ABA7,100:EDADBB&height=300&section=header&text=SoYeong%20Gwon&fontColor=8A615E&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:5B86A3,100:8ED6CC&height=300&section=header&text=SoYeong%20Gwon&fontColor=1D4F70&fontSize=90)
 <div align='center'>
  <a href="https://babypotatotang.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
  <a href="https://www.notion.so/0d12e2c47b29496f8873a70c77fb04b6" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
