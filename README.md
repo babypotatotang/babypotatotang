@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=0:003256,100:8ED6CC&height=200&section=header&text=SoYeong%20Gwon&fontColor=1D4F70&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=0:003256,100:8ED6CC&height=200&section=header&text=SoYeong%20Kwon&fontColor=1D4F70&fontSize=90)
 <div align='center'>
  <a href="https://www.notion.so/0d12e2c47b29496f8873a70c77fb04b6" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
   <a href="mailto:gwonso4502@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
